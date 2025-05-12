@@ -37,7 +37,7 @@ cd collaborative-text-editor
 
 
 
-y-webrtc – Peer-to-peer communication for Yjs
+
 
 
 
