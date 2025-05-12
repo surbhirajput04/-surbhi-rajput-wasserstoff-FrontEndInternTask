@@ -13,6 +13,16 @@ A real-time collaborative text editor built using **React.js**, **Tailwind CSS**
 - Easy to extend and customize
 
 ---
+🛠 Tech Stack
+React.js – Frontend framework
+
+Tailwind CSS – Utility-first CSS framework
+
+Quill.js – Rich text editor
+
+Yjs – CRDT library for real-time collaboration
+
+y-webrtc – Peer-to-peer communication for Yjs
 
 ## 📦 Getting Started
 
@@ -23,19 +33,9 @@ Follow these steps to run the project locally on your machine:
 ```bash
 git clone https://github.com/your-username/collaborative-text-editor.git
 cd collaborative-text-editor
-2. Install Dependencies
-Make sure you have Node.js and npm installed. Then run:
-npm install
-3. Run the Development Server
-npm run dev
-🛠 Tech Stack
-React.js – Frontend framework
 
-Tailwind CSS – Utility-first CSS framework
 
-Quill.js – Rich text editor
 
-Yjs – CRDT library for real-time collaboration
 
 y-webrtc – Peer-to-peer communication for Yjs
 
